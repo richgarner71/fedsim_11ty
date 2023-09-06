@@ -1,11 +1,11 @@
-title: Agency Name
-email: contact@example.gov
+title: FEDSIM
+email: rich.garner@gsa.gov
 description: >- # this means to ignore newlines
   Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.
 
 # Twitter handle. Only the handle, not the URL.
-twitter: 18F
+twitter: FEDSIM
 
 #################################################################
 #

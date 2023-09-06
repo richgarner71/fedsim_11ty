@@ -1,9 +1,9 @@
 {
-  "admin.js": "assets/js/admin.js",
-  "admin.map": "assets/js/admin.js.map",
-  "app.js": "assets/js/app.js",
-  "app.map": "assets/js/app.js.map",
-  "uswds.js": "assets/js/uswds-init.js",
-  "styles.css": "assets/css/styles.css",
-  "styles.map": "assets/css/styles.css.map"
+  "admin.js": "/assets/js/admin-MU7V2GV6.js",
+  "admin.map": "/assets/js/admin-MU7V2GV6.js.map",
+  "app.js": "/assets/js/app-6FJZFN74.js",
+  "app.map": "/assets/js/app-6FJZFN74.js.map",
+  "uswds.js": "/assets/js/uswds-init.js",
+  "styles.css": "/assets/styles/styles-PX3WCYMO.css",
+  "styles.map": "/assets/styles/styles-PX3WCYMO.css.map"
 }
